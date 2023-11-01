@@ -2,7 +2,7 @@
 - 👀 estou entereçado em musculação
 - 🌱 eu estou apendendo sobre HTML e CSS, curso de administração
 - 💞️ 
-- 📫 How to reach me ...
+- 📫 como chegar até mim: andando.
 
 <!---
 higor6/higor6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
